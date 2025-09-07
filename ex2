@@ -1,0 +1,10 @@
+function startClock() {//setInterval useagum
+  setInterval(() => {
+    const now = new Date();
+    console.clear();
+    console.log("⏰ " + now.toLocaleTimeString());
+  }, 1000);
+}
+
+// Usage
+startClock();
