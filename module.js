@@ -16,4 +16,4 @@ import pizza from "./text.js";
 const me= new pizza();//class ha oru variable kulla vechi dha call pana mudium
 console.log(me.bake());//variable  ha vechi call panum,class ulla irukara yellamae output la varum
 */
-//HIGHER ORDER FUNCTION
+
